@@ -18,3 +18,7 @@
 
 # Testing
 1. inside app directory, run: `rake`
+
+
+# do this and that and more
+1. more things
