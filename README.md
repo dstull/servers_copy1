@@ -1,4 +1,10 @@
-# README
+# Coding Exercise - Bulk Add Hosts
+
+# Assignment
+1. fork the repo
+2. Make tests pass and submit code to your fork
+3. Add interviewer as contributor
+4. submit a pull request to upstream once completed
 
 # Install
 1. clone/fork repo
