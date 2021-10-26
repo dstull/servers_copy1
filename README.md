@@ -20,4 +20,7 @@
 1. inside app directory, run: `rake`
 
 3. Blah
-4. somethign else
+4. somethign elses that
+
+
+5. that and this
