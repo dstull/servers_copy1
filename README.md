@@ -18,3 +18,6 @@
 
 # Testing
 1. inside app directory, run: `rake`
+
+3. Blah
+4. somethign else
