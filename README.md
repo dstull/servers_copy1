@@ -19,4 +19,3 @@
 # Testing
 1. inside app directory, run: `rake`
 
-
